@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aayushjoshi28
+- 👀 I’m interested in Cybersecurity and Ethical Hacking
+- 🌱 I’m currently pursuing B.E in Computer Engineering
+- 💞️ I’m looking to collaborate on Cybersecurity Projects and Research
+- 📫 How to reach me - aayushj8355@gmail.com
