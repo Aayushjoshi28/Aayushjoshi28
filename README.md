@@ -1,4 +1,5 @@
 <!-- README FILE CODE -->
+![Header](Aayush.png)
 
 <h2 align=center> Welcome to my GitHub profile </h2>
 
