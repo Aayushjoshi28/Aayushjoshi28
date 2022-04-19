@@ -1,5 +1,5 @@
 <!-- README FILE CODE -->
-![Header](Aayush.png)
+![Header](AayushSkills.png)
 
 <h2 align=center>Learn, Hack, Repeat</h2>
 
