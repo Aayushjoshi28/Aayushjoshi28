@@ -1,7 +1,7 @@
 <!-- README FILE CODE -->
 ![Header](Aayush.png)
 
-<h2 align=center> Welcome to my GitHub profile </h2>
+<h2 align=center>Learn, Hack, Repeat</h2>
 
 
 <!--ABOUT ME CODE-->
